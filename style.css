@@ -1,19 +1,28 @@
-.BarisPertama {
-    background-color: aquamarine;
+.th1 {
+    background-color: rgb(104, 209, 250);
 }
-table, th, td {
+.Table1, .td1, .th1 {
     border: 1px black solid;
     border-collapse: collapse;
+    text-align: center;
 }
-.Nomor{
+th{
     width: 50px;
 }
 th{
     width: 150px;
 }
 
-.KolomNomor{
-    display: flex;
-    justify-content: center;
-    border: px solid;
+.Colon {
+    width: 5%;
+    text-align: center;
+}
+
+.Title2 {
+    text-align: left;
+    width: 170px;
+}
+
+.Title2, .Colon, .td2, .Tabel2 {
+    ;
 }
